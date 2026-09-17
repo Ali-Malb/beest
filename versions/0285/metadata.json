@@ -1,0 +1,46 @@
+{
+  "place_id": "136660997404243",
+  "roblox_version_number": 285,
+  "roblox_created_timestamp": "2026-07-27T15:33:08.761Z",
+  "sequence_index_in_this_run": 285,
+  "rbxl_filename": "version_0285_2026-07-27T15-33-08-761Z.rbxl",
+  "file_size_bytes": 163681,
+  "sha256": "ce63ecd0770bb37d27e326b4959324f75de870d13fd93fe6788542a6bcf6d1f6",
+  "tool_downloaded_at_utc": "2026-09-17T04:36:18.785517+00:00",
+  "source_history_record_raw": {
+    "version": "285",
+    "title": null,
+    "description": null,
+    "contributors": [
+      1537690072
+    ],
+    "saveType": 1,
+    "isPublished": false,
+    "publishStatus": 0,
+    "hasNotes": false,
+    "createdTime": "2026-07-27T15:33:08.761Z",
+    "createdBy": 1537690072
+  },
+  "asset_delivery_response_raw": {
+    "locations": [
+      {
+        "assetFormat": "source",
+        "location": "https://fts.rbxcdn.com/sc0/bbb9c26484a9278a243cfef65b39c792?encoding=zstd&version=1&__token__=exp=1789796177~acl=/sc0/bbb9c26484a9278a243cfef65b39c792*~hmac=46d9b9cddbb00bc8447fba587208f1f81c6a57a8d73188cae66dc3998009e9ec&Expires=1789796177&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdHMucmJ4Y2RuLmNvbS9zYzAvYmJiOWMyNjQ4NGE5Mjc4YTI0M2NmZWY2NWIzOWM3OTIqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5Nzk2MTc3fX19XX0_&Signature=MEUCIGs2Yn8E-NrbDef-eY13LAhwN~yXYA8cItGLlXXOOrUCAiEAirtXs2~ns8RO4cht9CywOfqokvdczeD2fsKeI92JYgI_&Key-Pair-Id=K2DO5B9V931ZXZ&hdnts=Expires=1789796177~PathGlobs=/sc0/bbb9c26484a9278a243cfef65b39c792*~hmac=4225499357449dd85c8ba8a4c1a36714d5577a59787b312b4d15419a24147d4f",
+        "assetMetadatas": [
+          {
+            "metadataType": 1,
+            "value": "163681"
+          }
+        ]
+      }
+    ],
+    "requestId": "639252165756524281",
+    "isArchived": false,
+    "assetTypeId": 9,
+    "isRecordable": true
+  },
+  "source_endpoints": {
+    "history_list": "https://apis.roblox.com/place-version-history-api/v1/136660997404243/history",
+    "content": "https://assetdelivery.roblox.com/v2/assetId/136660997404243/version/285"
+  }
+}

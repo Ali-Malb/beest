@@ -1,0 +1,46 @@
+{
+  "place_id": "136660997404243",
+  "roblox_version_number": 8,
+  "roblox_created_timestamp": "2026-06-20T16:35:37.521Z",
+  "sequence_index_in_this_run": 8,
+  "rbxl_filename": "version_0008_2026-06-20T16-35-37-521Z.rbxl",
+  "file_size_bytes": 85662,
+  "sha256": "beb7051453c982ee0e5e88207a06e06158600cf3c47701c3f133cf3458d8e554",
+  "tool_downloaded_at_utc": "2026-09-17T04:57:28.134871+00:00",
+  "source_history_record_raw": {
+    "version": "8",
+    "title": null,
+    "description": null,
+    "contributors": [
+      1537690072
+    ],
+    "saveType": 1,
+    "isPublished": false,
+    "publishStatus": 0,
+    "hasNotes": false,
+    "createdTime": "2026-06-20T16:35:37.521Z",
+    "createdBy": 1537690072
+  },
+  "asset_delivery_response_raw": {
+    "locations": [
+      {
+        "assetFormat": "source",
+        "location": "https://fts.rbxcdn.com/sc6/295b7ce2891d3aa9120a697d31ba27fd?encoding=zstd&version=1&__token__=exp=1789797447~acl=/sc6/295b7ce2891d3aa9120a697d31ba27fd*~hmac=bc67d211a73fd3f5b0812b5f9ff401cc29a1f0aab6944ee189a10bf76e9b02d5&Expires=1789797447&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdHMucmJ4Y2RuLmNvbS9zYzYvMjk1YjdjZTI4OTFkM2FhOTEyMGE2OTdkMzFiYTI3ZmQqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5Nzk3NDQ3fX19XX0_&Signature=MEUCIQCpAg~C~hjIV-rQ5J5Er86eJ-m2hy1EjikA9XTMXA2X2AIgSuAqZosu-todSsmd6r6nIYZGBV6C4~-S~FA13dVHgM0_&Key-Pair-Id=K2DO5B9V931ZXZ&hdnts=Expires=1789797447~PathGlobs=/sc6/295b7ce2891d3aa9120a697d31ba27fd*~hmac=e7166253c25c9eaf09ae8484f8ee3019565760e83cb589048a5f93fba33fa85e",
+        "assetMetadatas": [
+          {
+            "metadataType": 1,
+            "value": "85662"
+          }
+        ]
+      }
+    ],
+    "requestId": "639252178452194087",
+    "isArchived": false,
+    "assetTypeId": 9,
+    "isRecordable": true
+  },
+  "source_endpoints": {
+    "history_list": "https://apis.roblox.com/place-version-history-api/v1/136660997404243/history",
+    "content": "https://assetdelivery.roblox.com/v2/assetId/136660997404243/version/8"
+  }
+}

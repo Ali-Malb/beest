@@ -1,0 +1,367 @@
+[
+  {
+    "path": "Workspace\\Gear Giver\\TwoSeaterRainbowMagicCarpet\\LocalScript.client.luau",
+    "className": "LocalScript",
+    "bytes": 6632
+  },
+  {
+    "path": "Workspace\\Gear Giver\\TwoSeaterRainbowMagicCarpet\\MouseIcon.client.luau",
+    "className": "LocalScript",
+    "bytes": 520
+  },
+  {
+    "path": "StarterPlayer\\StarterPlayerScripts\\LocalScript.client.luau",
+    "className": "LocalScript",
+    "bytes": 319
+  },
+  {
+    "path": "StarterPlayer\\StarterPlayerScripts\\LocalScript_3446.client.luau",
+    "className": "LocalScript",
+    "bytes": 1690
+  },
+  {
+    "path": "StarterPlayer\\StarterPlayerScripts\\LocalScript_3447.client.luau",
+    "className": "LocalScript",
+    "bytes": 22
+  },
+  {
+    "path": "StarterPlayer\\StarterCharacterScripts\\LocalScript.client.luau",
+    "className": "LocalScript",
+    "bytes": 1070
+  },
+  {
+    "path": "StarterPlayer\\StarterCharacterScripts\\LocalScript_3450.client.luau",
+    "className": "LocalScript",
+    "bytes": 37849
+  },
+  {
+    "path": "StarterPlayer\\StarterCharacterScripts\\LocalScript_3451.client.luau",
+    "className": "LocalScript",
+    "bytes": 38261
+  },
+  {
+    "path": "StarterPlayer\\StarterCharacterScripts\\LocalScript_3452.client.luau",
+    "className": "LocalScript",
+    "bytes": 1967
+  },
+  {
+    "path": "StarterGui\\ScreenGui\\LocalScript.client.luau",
+    "className": "LocalScript",
+    "bytes": 3911
+  },
+  {
+    "path": "Workspace\\HD Admin\\READ_ME.luau",
+    "className": "ModuleScript",
+    "bytes": 1042
+  },
+  {
+    "path": "Workspace\\HD Admin\\Settings.luau",
+    "className": "ModuleScript",
+    "bytes": 7889
+  },
+  {
+    "path": "Workspace\\HD Admin\\Config\\Commands\\Server.luau",
+    "className": "ModuleScript",
+    "bytes": 1047
+  },
+  {
+    "path": "Workspace\\HD Admin\\Config\\Commands\\Client.luau",
+    "className": "ModuleScript",
+    "bytes": 540
+  },
+  {
+    "path": "Workspace\\HD Admin\\Core\\MainModule.luau",
+    "className": "ModuleScript",
+    "bytes": 26
+  },
+  {
+    "path": "Workspace\\Gear Giver\\WeaponSpawner\\WeaponSpawner-to-Handle Strong Joint\\Value\\MeshWeld\\LightConfig\\Type.luau",
+    "className": "ModuleScript",
+    "bytes": 6783
+  },
+  {
+    "path": "Workspace\\Gear Giver\\WeaponSpawner\\WeaponSpawner-to-Handle Strong Joint\\Value\\MeshWeld\\LightConfig\\EasyConfiguration.luau",
+    "className": "ModuleScript",
+    "bytes": 4501
+  },
+  {
+    "path": "Workspace\\HD Admin\\Core\\Loader.server.luau",
+    "className": "Script",
+    "bytes": 143
+  },
+  {
+    "path": "Workspace\\Part\\Script.server.luau",
+    "className": "Script",
+    "bytes": 363
+  },
+  {
+    "path": "Workspace\\Model\\Script.server.luau",
+    "className": "Script",
+    "bytes": 351
+  },
+  {
+    "path": "Workspace\\Model\\Model\\Script.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\Part\\Script_305.server.luau",
+    "className": "Script",
+    "bytes": 260
+  },
+  {
+    "path": "Workspace\\Part\\Script_316.server.luau",
+    "className": "Script",
+    "bytes": 466
+  },
+  {
+    "path": "Workspace\\Part\\Script_318.server.luau",
+    "className": "Script",
+    "bytes": 384
+  },
+  {
+    "path": "Workspace\\SpeedBoost\\Model\\Script.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\SpeedBoost\\Script.server.luau",
+    "className": "Script",
+    "bytes": 320
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Model\\Script.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Script.server.luau",
+    "className": "Script",
+    "bytes": 352
+  },
+  {
+    "path": "Workspace\\Model\\Script_852.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\bacon rig\\Script.server.luau",
+    "className": "Script",
+    "bytes": 1628
+  },
+  {
+    "path": "Workspace\\Model\\Script_1279.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\Model\\Script_1290.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\Model\\Script_1301.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\Model\\Script_1312.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\Model\\Script_1323.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\TeleportPart\\Script.server.luau",
+    "className": "Script",
+    "bytes": 335
+  },
+  {
+    "path": "Workspace\\Portal\\Script.server.luau",
+    "className": "Script",
+    "bytes": 245
+  },
+  {
+    "path": "Workspace\\Model\\Script_1354.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\Model\\Script_1365.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\Model\\Script_1376.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\FinishPart\\Script.server.luau",
+    "className": "Script",
+    "bytes": 247
+  },
+  {
+    "path": "Workspace\\Gear Giver\\WeaponSpawner\\Script.server.luau",
+    "className": "Script",
+    "bytes": 2634
+  },
+  {
+    "path": "Workspace\\Gear Giver\\WeaponSpawner\\WeaponSpawner-to-Handle Strong Joint\\Value\\MeshWeld.server.luau",
+    "className": "Script",
+    "bytes": 105
+  },
+  {
+    "path": "Workspace\\Gear Giver\\WeaponSpawner\\WeaponSpawner-to-Handle Strong Joint\\Value\\MeshWeld\\LightConfig.server.luau",
+    "className": "Script",
+    "bytes": 7087
+  },
+  {
+    "path": "Workspace\\Gear Giver\\README.server.luau",
+    "className": "Script",
+    "bytes": 271
+  },
+  {
+    "path": "Workspace\\Gear Giver\\TwoSeaterRainbowMagicCarpet\\Script.server.luau",
+    "className": "Script",
+    "bytes": 11839
+  },
+  {
+    "path": "Workspace\\Gear Giver\\TwoSeaterRainbowMagicCarpet\\Script\\RemovalMonitor.server.luau",
+    "className": "Script",
+    "bytes": 481
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Model\\Script_1506.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Script_1517.server.luau",
+    "className": "Script",
+    "bytes": 351
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Model\\Script_1653.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Script_1655.server.luau",
+    "className": "Script",
+    "bytes": 320
+  },
+  {
+    "path": "Workspace\\SpeedBoost\\Model\\Script_1889.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\SpeedBoost\\Script_1891.server.luau",
+    "className": "Script",
+    "bytes": 320
+  },
+  {
+    "path": "Workspace\\Part\\Script_1895.server.luau",
+    "className": "Script",
+    "bytes": 384
+  },
+  {
+    "path": "Workspace\\Part\\Script_1899.server.luau",
+    "className": "Script",
+    "bytes": 466
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Model\\Script_3213.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Script_3224.server.luau",
+    "className": "Script",
+    "bytes": 352
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Model\\Script_3239.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Script_3251.server.luau",
+    "className": "Script",
+    "bytes": 352
+  },
+  {
+    "path": "Workspace\\Part\\Script_3254.server.luau",
+    "className": "Script",
+    "bytes": 351
+  },
+  {
+    "path": "Workspace\\Part\\Script_3256.server.luau",
+    "className": "Script",
+    "bytes": 351
+  },
+  {
+    "path": "Workspace\\Model\\Script_3300.server.luau",
+    "className": "Script",
+    "bytes": 352
+  },
+  {
+    "path": "Workspace\\Union\\Script.server.luau",
+    "className": "Script",
+    "bytes": 351
+  },
+  {
+    "path": "Workspace\\Union\\Script_3304.server.luau",
+    "className": "Script",
+    "bytes": 352
+  },
+  {
+    "path": "Workspace\\SpawnLocation1\\Script.server.luau",
+    "className": "Script",
+    "bytes": 488
+  },
+  {
+    "path": "Workspace\\Part\\Script_3387.server.luau",
+    "className": "Script",
+    "bytes": 384
+  },
+  {
+    "path": "Workspace\\Part\\Script_3389.server.luau",
+    "className": "Script",
+    "bytes": 466
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Script_3391.server.luau",
+    "className": "Script",
+    "bytes": 352
+  },
+  {
+    "path": "Workspace\\JumpBoost\\Model\\Script_3398.server.luau",
+    "className": "Script",
+    "bytes": 274
+  },
+  {
+    "path": "ServerScriptService\\MovementHandler.server.luau",
+    "className": "Script",
+    "bytes": 3961
+  },
+  {
+    "path": "ServerScriptService\\Script.server.luau",
+    "className": "Script",
+    "bytes": 297
+  },
+  {
+    "path": "ServerScriptService\\Script_3503.server.luau",
+    "className": "Script",
+    "bytes": 398
+  },
+  {
+    "path": "ServerScriptService\\Script_3504.server.luau",
+    "className": "Script",
+    "bytes": 5037
+  }
+]

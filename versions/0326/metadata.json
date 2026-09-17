@@ -1,0 +1,46 @@
+{
+  "place_id": "127776114458009",
+  "roblox_version_number": 10,
+  "roblox_created_timestamp": "2026-08-23T19:08:44.61Z",
+  "sequence_index_in_this_run": 10,
+  "rbxl_filename": "version_0010_2026-08-23T19-08-44-61Z.rbxl",
+  "file_size_bytes": 431971,
+  "sha256": "017dc1045049d457735fa8c6be716b99b952552cce8db654b336b469b8fd16a2",
+  "tool_downloaded_at_utc": "2026-09-15T11:12:51.049083+00:00",
+  "source_history_record_raw": {
+    "version": "10",
+    "title": null,
+    "description": null,
+    "contributors": [
+      1537690072
+    ],
+    "saveType": 2,
+    "isPublished": false,
+    "publishStatus": 0,
+    "hasNotes": false,
+    "createdTime": "2026-08-23T19:08:44.61Z",
+    "createdBy": 1537690072
+  },
+  "asset_delivery_response_raw": {
+    "locations": [
+      {
+        "assetFormat": "source",
+        "location": "https://fts.rbxcdn.com/sc3/40347690ab5ac26a3d97a90896e46df5?encoding=zstd&version=1&__token__=exp=1789647169~acl=/sc3/40347690ab5ac26a3d97a90896e46df5*~hmac=fdc51c4d48b4debbd6944cdfc17d287afbdb23fef542fcd7cb3a7cf872657a9f&Expires=1789647169&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdHMucmJ4Y2RuLmNvbS9zYzMvNDAzNDc2OTBhYjVhYzI2YTNkOTdhOTA4OTZlNDZkZjUqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NjQ3MTY5fX19XX0_&Signature=MEYCIQD9xz6~hhKDrj1nAll~ZoXj2RhlAbalbbJ5nNQ83DbAIAIhAPvMyoiks2VGTzqklUZD9MgPl6hzvrKLPxSNDRX2dJ1c&Key-Pair-Id=K2DO5B9V931ZXZ&hdnts=Expires=1789647169~PathGlobs=/sc3/40347690ab5ac26a3d97a90896e46df5*~hmac=346240fbfd86ee03952e9a7a07287508d731431c2628ea3de465789deeaf850d",
+        "assetMetadatas": [
+          {
+            "metadataType": 1,
+            "value": "431971"
+          }
+        ]
+      }
+    ],
+    "requestId": "639250675676086142",
+    "isArchived": false,
+    "assetTypeId": 9,
+    "isRecordable": true
+  },
+  "source_endpoints": {
+    "history_list": "https://apis.roblox.com/place-version-history-api/v1/127776114458009/history",
+    "content": "https://assetdelivery.roblox.com/v2/assetId/127776114458009/version/10"
+  }
+}

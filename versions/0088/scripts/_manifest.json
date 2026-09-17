@@ -1,0 +1,52 @@
+[
+  {
+    "path": "StarterPlayer\\StarterCharacterScripts\\LocalScript.client.luau",
+    "className": "LocalScript",
+    "bytes": 1007
+  },
+  {
+    "path": "Workspace\\HD Admin\\Config\\Commands\\Server.luau",
+    "className": "ModuleScript",
+    "bytes": 1047
+  },
+  {
+    "path": "Workspace\\HD Admin\\Config\\Commands\\Client.luau",
+    "className": "ModuleScript",
+    "bytes": 540
+  },
+  {
+    "path": "Workspace\\HD Admin\\Core\\MainModule.luau",
+    "className": "ModuleScript",
+    "bytes": 26
+  },
+  {
+    "path": "Workspace\\HD Admin\\READ_ME.luau",
+    "className": "ModuleScript",
+    "bytes": 1042
+  },
+  {
+    "path": "Workspace\\HD Admin\\Settings.luau",
+    "className": "ModuleScript",
+    "bytes": 7889
+  },
+  {
+    "path": "Workspace\\HD Admin\\Core\\Loader.server.luau",
+    "className": "Script",
+    "bytes": 143
+  },
+  {
+    "path": "Workspace\\Part\\Script.server.luau",
+    "className": "Script",
+    "bytes": 155
+  },
+  {
+    "path": "StarterPlayer\\StarterCharacterScripts\\SprintClient.server.luau",
+    "className": "Script",
+    "bytes": 0
+  },
+  {
+    "path": "ServerScriptService\\MovementHandler.server.luau",
+    "className": "Script",
+    "bytes": 1913
+  }
+]

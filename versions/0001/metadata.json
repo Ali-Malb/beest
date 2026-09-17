@@ -1,0 +1,44 @@
+{
+  "place_id": "136660997404243",
+  "roblox_version_number": 1,
+  "roblox_created_timestamp": "2026-06-19T11:50:14.205Z",
+  "sequence_index_in_this_run": 1,
+  "rbxl_filename": "version_0001_2026-06-19T11-50-14-205Z.rbxl",
+  "file_size_bytes": 52792,
+  "sha256": "2ce6c431ff7e7f6ed8c85456a4022f5fe39bc69b9df46986d0f571521d90afe5",
+  "tool_downloaded_at_utc": "2026-09-17T04:56:55.021981+00:00",
+  "source_history_record_raw": {
+    "version": "1",
+    "title": null,
+    "description": null,
+    "contributors": [],
+    "saveType": 0,
+    "isPublished": false,
+    "publishStatus": 0,
+    "hasNotes": false,
+    "createdTime": "2026-06-19T11:50:14.205Z",
+    "createdBy": null
+  },
+  "asset_delivery_response_raw": {
+    "locations": [
+      {
+        "assetFormat": "source",
+        "location": "https://fts.rbxcdn.com/sc6/ebdeb0e5681fccd5e5440e704abfe1ca?encoding=zstd&version=1&__token__=exp=1789797415~acl=/sc6/ebdeb0e5681fccd5e5440e704abfe1ca*~hmac=5584782c1c8930db6ce84212cb4ea174a1adcc8e77a1bb012a71af4af0387eab&Expires=1789797415&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdHMucmJ4Y2RuLmNvbS9zYzYvZWJkZWIwZTU2ODFmY2NkNWU1NDQwZTcwNGFiZmUxY2EqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5Nzk3NDE1fX19XX0_&Signature=MEQCIElIpqMKiVozrDIsaqRAh37oL3JenYJRcXLousApCsifAiBVIKHOSjBh5GkvRIubwJbOC~xU6wxebEyRCep~jjG0Tg__&Key-Pair-Id=K2DO5B9V931ZXZ&hdnts=Expires=1789797415~PathGlobs=/sc6/ebdeb0e5681fccd5e5440e704abfe1ca*~hmac=c3e8d679da1aa6fdcd967338a2ce4281b348edc56fc49bc9cf6189980861927c",
+        "assetMetadatas": [
+          {
+            "metadataType": 1,
+            "value": "52792"
+          }
+        ]
+      }
+    ],
+    "requestId": "639252178131706188",
+    "isArchived": false,
+    "assetTypeId": 9,
+    "isRecordable": true
+  },
+  "source_endpoints": {
+    "history_list": "https://apis.roblox.com/place-version-history-api/v1/136660997404243/history",
+    "content": "https://assetdelivery.roblox.com/v2/assetId/136660997404243/version/1"
+  }
+}

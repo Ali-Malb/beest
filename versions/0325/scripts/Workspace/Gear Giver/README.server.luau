@@ -1,0 +1,5 @@
+------------------------Gear Giver made by HedsapSpelar----------------------
+ -- Instructions!
+-- 1. Put any gear inside of the "Gear Giver" model
+-- 2. Delete this script.
+---------------------------------------------------------------------------------------------

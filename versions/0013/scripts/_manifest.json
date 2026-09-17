@@ -1,0 +1,12 @@
+[
+  {
+    "path": "Workspace\\Part\\Script.server.luau",
+    "className": "Script",
+    "bytes": 155
+  },
+  {
+    "path": "Workspace\\SpawnLocation\\Script.server.luau",
+    "className": "Script",
+    "bytes": 711
+  }
+]
